@@ -1,0 +1,11 @@
+ext/*.o
+ext/*.old
+ext/*.so
+ext/Makefile
+lib/ipp_print/*.so
+lib/ipp_print/*.bundle
+lib/ipp_print/*.dll
+*.gem
+.DS_Store
+/tmp
+Gemfile.lock
